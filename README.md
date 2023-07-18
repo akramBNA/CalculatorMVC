@@ -1,4 +1,4 @@
 # CalculatorMVC
 A java MVC application:
 
-Calculator.
+Calculation application using the MVC pattern (model - view - controller).
